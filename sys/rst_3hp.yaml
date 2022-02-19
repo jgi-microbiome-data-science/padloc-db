@@ -1,0 +1,14 @@
+---
+maximum_separation: 5
+minimum_core: 3
+minimum_total: 3
+
+core_genes:
+  - Rst_Hp1
+  - Rst_Hp2
+  - Rst_Hp3
+optional_genes:
+  - NA
+prohibited_genes:
+  - NA
+...

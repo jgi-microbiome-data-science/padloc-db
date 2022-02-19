@@ -1,0 +1,14 @@
+---
+maximum_separation: 4
+minimum_core: 3
+minimum_total: 3
+
+core_genes:
+  - Rst_2TM_TIR
+  - Rst_TIR_tm
+  - Rst_1TM_TIR
+optional_genes:
+  - NA
+prohibited_genes:
+  - NA
+...

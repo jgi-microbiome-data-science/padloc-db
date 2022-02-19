@@ -177,3 +177,27 @@ Retron	XI	retron_XI	T	single gene
 Retron	XII	retron_XII	T	single gene
 Retron	XIII	retron_XIII	T	NA
 Retron	other	retron_other	T	NA
+RM	I	rm_I	T	NA
+RM	II	rm_II	T	NA
+RM	IIG	rm_IIG	T	NA
+RM	III	rm_III	T	NA
+RM	IV	rm_IV	T	NA
+PARIS	I	paris_I	T	NA
+PARIS	II	paris_II	T	NA
+PARIS	I_merge	paris_I_merge	T	NA
+PARIS	II_merge	paris_II_merge	T	NA
+Rst_gop_beta_cll	NA	rst_gop_beta_cll	T	NA
+Rst_Old_Tin	NA	rst_old_tin	T	NA
+Rst_2TM_1TM_TIR	NA	rst_2tm_1tm_tir	T	NA
+Rst_TIR-NLR	NA	rst_tir_nlr	T	NA
+Rst_Hydrolase-Tm	NA	rst_hydrolase_tm	T	NA
+Rst_RT-Tm	NA	rst_rt_tm	T	NA
+Rst_Helicase_DUF2290	NA	rst_helicase_duf2290	T	NA
+Rst_DUF4238	NA	rst_duf4238	T	NA
+Rst_DprA-PPRT	NA	rst_dpra_pprt	T	NA
+Rst_3HP	NA	rst_3hp	T	NA
+NixI	NA	nixI	T	NA
+dCTPdeaminase	NA	dctpdeaminase	T	NA
+dGTPase	NA	dgtpase	T	NA
+DarTG	NA	dartg	T	NA
+GasderMIN	NA	gasdermin	T	NA

@@ -1,0 +1,13 @@
+---
+maximum_separation: 6
+minimum_core: 2
+minimum_total: 2
+
+core_genes:
+  - Rst_Old
+  - Rst_Tin
+optional_genes:
+  - NA
+prohibited_genes:
+  - NA
+...

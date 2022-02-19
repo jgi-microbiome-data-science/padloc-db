@@ -1,0 +1,14 @@
+---
+maximum_separation: 6
+minimum_core: 3
+minimum_total: 3
+
+core_genes:
+  - Rst_beta
+  - Rst_cll
+  - Rst_gop
+optional_genes:
+  - NA
+prohibited_genes:
+  - NA
+...

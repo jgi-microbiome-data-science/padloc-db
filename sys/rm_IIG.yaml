@@ -1,0 +1,13 @@
+---
+maximum_separation: 5
+minimum_core: 1
+minimum_total: 1
+
+core_genes:
+  - RM_Type_IIG_effector
+optional_genes:
+  - NA
+prohibited_genes:
+  - RM_Type_IIG_drmB
+  - RM_Type_IIG_pglZ
+...

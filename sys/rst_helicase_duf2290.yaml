@@ -1,0 +1,13 @@
+---
+maximum_separation: 5
+minimum_core: 2
+minimum_total: 2
+
+core_genes:
+  - Rst_Helicase
+  - Rst_DUF2290
+optional_genes:
+  - NA
+prohibited_genes:
+  - NA
+...
