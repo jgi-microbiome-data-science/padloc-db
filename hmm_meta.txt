@@ -3021,3 +3021,4 @@ PDLC03020	Sp_dGTPase		Sp_dGTPase		Camargo AP			0.00001	0.3	0.3	dGTPase			NA
 PDLC03021	DarT		DarT		Camargo AP			0.00001	0.3	0.3	DarTG			NA
 PDLC03022	DarG		DarG		Camargo AP			0.00001	0.3	0.3	DarTG			NA
 PDLC03023	bGSDM		bGSDM		Camargo AP			0.00001	0.3	0.3	GasderMIN			NA
+PDLC03024	spbK		spbK		Camargo AP			0.00001	0.3	0.3	spbK			NA

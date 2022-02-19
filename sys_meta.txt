@@ -201,3 +201,4 @@ dCTPdeaminase	NA	dctpdeaminase	T	NA
 dGTPase	NA	dgtpase	T	NA
 DarTG	NA	dartg	T	NA
 GasderMIN	NA	gasdermin	T	NA
+spbK	NA	spbk	T	NA
