@@ -202,3 +202,4 @@ dGTPase	NA	dgtpase	T	NA
 DarTG	NA	dartg	T	NA
 GasderMIN	NA	gasdermin	T	NA
 spbK	NA	spbk	T	NA
+PDE3_ORF807	NA	pde3_orf807	T	NA
