@@ -3022,3 +3022,7 @@ PDLC03021	DarT		DarT		Camargo AP			0.00001	0.3	0.3	DarTG			NA
 PDLC03022	DarG		DarG		Camargo AP			0.00001	0.3	0.3	DarTG			NA
 PDLC03023	bGSDM		bGSDM		Camargo AP			0.00001	0.3	0.3	GasderMIN			NA
 PDLC03024	spbK		spbK		Camargo AP			0.00001	0.3	0.3	spbK			NA
+PDLC03025	NixI_alt		NixI		Camargo AP			0.00001	0.3	0.3	NixI			NA
+PDLC03026	SiAgo_Ago		pAgo		Camargo AP			0.00001	0.3	0.3	Argonaute			NA
+PDLC03027	SiAgo_Aga1		Aga1		Camargo AP			0.00001	0.3	0.3	Argonaute			NA
+PDLC03028	SiAgo_Aga2		Aga2		Camargo AP			0.00001	0.3	0.3	Argonaute			NA
