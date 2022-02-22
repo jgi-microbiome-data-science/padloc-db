@@ -3009,7 +3009,7 @@ PDLC03008	Rst_RT-Tm		Rst_RT-Tm		Camargo AP			0.00001	0.3	0.3	Rst_RT-Tm			NA
 PDLC03009	Rst_Helicase		Rst_Helicase		Camargo AP			0.00001	0.3	0.3	Rst_Helicase_DUF2290			NA
 PDLC03010	Rst_DUF2290		Rst_DUF2290		Camargo AP			0.00001	0.3	0.3	Rst_Helicase_DUF2290			NA
 PDLC03011	Rst_DUF2290_Pers		Rst_DUF2290		Camargo AP			0.00001	0.3	0.3	Rst_Helicase_DUF2290			NA
-PDLC03012	Rst_DUF4238_Pers		Rst_DUF4238_Pers		Camargo AP			0.00001	0.3	0.3	Rst_DUF4238			NA
+PDLC03012	Rst_DUF4238_Pers		Rst_DUF4238_Pers		Camargo AP			0.0000001	0.5	0.5	Rst_DUF4238			NA
 PDLC03013	Rst_DprA		Rst_DprA		Camargo AP			0.00001	0.3	0.3	Rst_DprA-PPRT			NA
 PDLC03014	Rst_Phosphoribosyltransferase		Rst_Phosphoribosyltransferase		Camargo AP			0.00001	0.3	0.3	Rst_DprA-PPRT			NA
 PDLC03015	Rst_Hp1		Rst_Hp1		Camargo AP			0.00001	0.3	0.3	Rst_3HP			NA
