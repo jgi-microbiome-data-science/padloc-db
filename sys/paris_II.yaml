@@ -4,7 +4,7 @@ minimum_core: 2
 minimum_total: 2
 
 core_genes:
-  - AAA_15
+  - AAA_21
   - DUF4435
 optional_genes:
   - NA
