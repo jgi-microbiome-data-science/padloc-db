@@ -1286,7 +1286,8 @@ HMM          A        C        D        E        F        G        H        I   
           0.02244  3.80822        *  0.61958  0.77255  0.00000        *
 //
 HMMER3/f [3.3 | Nov 2019]
-NAME  Type_IV_03
+NAME  RM_Type_IV_REases
+ACC   PDLC02990
 LENG  260
 ALPH  amino
 RF    no
@@ -2089,7 +2090,8 @@ HMM          A        C        D        E        F        G        H        I   
           0.01334  4.32386        *  0.61958  0.77255  0.00000        *
 //
 HMMER3/f [3.3 | Nov 2019]
-NAME  Type_IV_05
+NAME  RM_Type_IV_REases
+ACC   PDLC02990
 LENG  256
 ALPH  amino
 RF    no
@@ -2880,7 +2882,8 @@ HMM          A        C        D        E        F        G        H        I   
           0.00485  5.33059        *  0.61958  0.77255  0.00000        *
 //
 HMMER3/f [3.3 | Nov 2019]
-NAME  Type_IV_21
+NAME  RM_Type_IV_REases
+ACC   PDLC02990
 LENG  567
 ALPH  amino
 RF    no
@@ -4604,7 +4607,8 @@ HMM          A        C        D        E        F        G        H        I   
           0.03010  3.51812        *  0.61958  0.77255  0.00000        *
 //
 HMMER3/f [3.3 | Nov 2019]
-NAME  Type_IV_22
+NAME  RM_Type_IV_REases
+ACC   PDLC02990
 LENG  559
 ALPH  amino
 RF    no
@@ -6304,7 +6308,8 @@ HMM          A        C        D        E        F        G        H        I   
           0.00864  4.75554        *  0.61958  0.77255  0.00000        *
 //
 HMMER3/f [3.1b2 | February 2015]
-NAME  FAM_0
+NAME  RM_Type_IV_REases
+ACC   PDLC02990
 LENG  470
 ALPH  amino
 RF    no
@@ -7737,7 +7742,8 @@ HMM          A        C        D        E        F        G        H        I   
           0.01528  4.18901        *  0.61958  0.77255  0.00000        *
 //
 HMMER3/f [3.1b2 | February 2015]
-NAME  FAM_1
+NAME  RM_Type_IV_REases
+ACC   PDLC02990
 LENG  561
 ALPH  amino
 RF    no
@@ -9443,7 +9449,8 @@ HMM          A        C        D        E        F        G        H        I   
           0.01468  4.22881        *  0.61958  0.77255  0.00000        *
 //
 HMMER3/f [3.1b2 | February 2015]
-NAME  FAM_2
+NAME  RM_Type_IV_REases
+ACC   PDLC02990
 LENG  352
 ALPH  amino
 RF    no

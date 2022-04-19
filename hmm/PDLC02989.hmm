@@ -1919,7 +1919,8 @@ HMM          A        C        D        E        F        G        H        I   
           1.05743  0.42671        *  0.07031  2.68973  0.00000        *
 //
 HMMER3/f [3.1b2 | February 2015]
-NAME  FAM_1
+NAME  RM_Type_III_MTases
+ACC   PDLC02989
 LENG  720
 ALPH  amino
 RF    no
