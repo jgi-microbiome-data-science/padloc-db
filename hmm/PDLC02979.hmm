@@ -1559,7 +1559,8 @@ HMM          A        C        D        E        F        G        H        I   
           0.41768  1.07462        *  0.65919  0.72830  0.00000        *
 //
 HMMER3/f [3.1b2 | February 2015]
-NAME  FAM_1
+NAME  RM_Type_I_MTases
+ACC   PDLC02979
 LENG  490
 ALPH  amino
 RF    no
@@ -3052,7 +3053,8 @@ HMM          A        C        D        E        F        G        H        I   
           0.01364  4.30143        *  0.61958  0.77255  0.00000        *
 //
 HMMER3/f [3.1b2 | February 2015]
-NAME  FAM_2
+NAME  RM_Type_I_MTases
+ACC   PDLC02979
 LENG  496
 ALPH  amino
 RF    no
@@ -4563,7 +4565,8 @@ HMM          A        C        D        E        F        G        H        I   
           0.18731  1.76720        *  0.99959  0.45891  0.00000        *
 //
 HMMER3/f [3.1b2 | February 2015]
-NAME  FAM_3
+NAME  RM_Type_I_MTases
+ACC   PDLC02979
 LENG  662
 ALPH  amino
 RF    no

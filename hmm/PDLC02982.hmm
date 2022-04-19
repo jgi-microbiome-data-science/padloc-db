@@ -2750,7 +2750,8 @@ HMM          A        C        D        E        F        G        H        I   
           1.09943  0.40506        *  0.03640  3.33146  0.00000        *
 //
 HMMER3/f [3.1b2 | February 2015]
-NAME  FAM_1.einsi_trimmed
+NAME  RM_Type_IIG_effector
+ACC   PDLC02982
 LENG  920
 ALPH  amino
 RF    no
@@ -5533,7 +5534,8 @@ HMM          A        C        D        E        F        G        H        I   
           0.77082  0.62108        *  4.08292  0.01700  0.00000        *
 //
 HMMER3/f [3.1b2 | February 2015]
-NAME  FAM_2.einsi_trimmed
+NAME  RM_Type_IIG_effector
+ACC   PDLC02982
 LENG  1133
 ALPH  amino
 RF    no
@@ -8955,7 +8957,8 @@ HMM          A        C        D        E        F        G        H        I   
           0.50655  0.92274        *  1.28804  0.32270  0.00000        *
 //
 HMMER3/f [3.3 | Nov 2019]
-NAME  Type_IIG_1
+NAME  RM_Type_IIG_effector
+ACC   PDLC02982
 LENG  795
 ALPH  amino
 RF    no
@@ -11363,7 +11366,8 @@ HMM          A        C        D        E        F        G        H        I   
           0.18174  1.79467        *  0.65386  0.73404  0.00000        *
 //
 HMMER3/f [3.3 | Nov 2019]
-NAME  Type_IIG_2
+NAME  RM_Type_IIG_effector
+ACC   PDLC02982
 LENG  749
 ALPH  amino
 RF    no
@@ -13633,7 +13637,8 @@ HMM          A        C        D        E        F        G        H        I   
           0.02468  3.71426        *  0.61958  0.77255  0.00000        *
 //
 HMMER3/f [3.3 | Nov 2019]
-NAME  Type_IIG_3
+NAME  RM_Type_IIG_effector
+ACC   PDLC02982
 LENG  950
 ALPH  amino
 RF    no
@@ -16506,7 +16511,8 @@ HMM          A        C        D        E        F        G        H        I   
           0.00567  5.17587        *  0.61958  0.77255  0.00000        *
 //
 HMMER3/f [3.3 | Nov 2019]
-NAME  Type_IIG_4
+NAME  RM_Type_IIG_effector
+ACC   PDLC02982
 LENG  1095
 ALPH  amino
 RF    no
@@ -19814,7 +19820,8 @@ HMM          A        C        D        E        F        G        H        I   
           0.02665  3.63821        *  0.61958  0.77255  0.00000        *
 //
 HMMER3/f [3.3 | Nov 2019]
-NAME  Type_IIG_5
+NAME  RM_Type_IIG_effector
+ACC   PDLC02982
 LENG  1175
 ALPH  amino
 RF    no
