@@ -7,7 +7,7 @@ core_genes:
   - pVip
   - HicA-like
 optional_genes:
-  - Ankyrin  
+  - Ankyrin
 prohibited_genes:
   - NudI
 ...
