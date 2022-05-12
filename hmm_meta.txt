@@ -2974,65 +2974,65 @@ PDLC02973	retron_type_XIII_wgr-heat_cluster216_1		WGR_XIII		Jackson SA			0.00001
 PDLC02974	retron_type_III_A1_wh_cluster742_1		WH_III-A		Jackson SA			0.00001	0.5	0.3	Retron	10/fzk3		NA
 PDLC02975	retron_type_III_A2_wh_cluster1121_1		WH_III-A		Jackson SA			0.00001	0.5	0.3	Retron	10/fzk3		NA
 PDLC02976	retron_type_III_A5_wh_cluster1689_1		WH_III-A		Jackson SA			0.00001	0.5	0.3	Retron	10/fzk3		NA
-PDLC02977	RM_Type_I_S		RM_Type_I_S		Camargo AP			0.00001	0.3	0.3	RM			NA
-PDLC02978	RM_Type_I_REases		RM_Type_I_REases		Camargo AP			0.00001	0.3	0.3	RM			NA
-PDLC02979	RM_Type_I_MTases		RM_Type_I_MTases		Camargo AP			0.00001	0.3	0.3	RM			NA
-PDLC02980	RM_Type_II_REases		RM_Type_II_REases		Camargo AP			0.00001	0.3	0.3	RM			NA
-PDLC02981	RM_Type_II_MTases		RM_Type_II_MTases		Camargo AP			0.00001	0.3	0.3	RM			NA
-PDLC02982	RM_Type_IIG_effector		RM_Type_IIG_effector		Camargo AP			0.0000001	0.6	0.6	RM			NA
-PDLC02983	RM_Type_IIG_drmB		RM_Type_IIG_drmB		Camargo AP			0.00001	0.3	0.3	RM			NA
-PDLC02984	RM_Type_IIG_pglZA		RM_Type_IIG_pglZ		Camargo AP			0.00001	0.3	0.3	RM			NA
-PDLC02985	RM_Type_IIG_pglZB		RM_Type_IIG_pglZ		Camargo AP			0.00001	0.3	0.3	RM			NA
-PDLC02986	RM_Type_IIG_pglZ2		RM_Type_IIG_pglZ		Camargo AP			0.00001	0.3	0.3	RM			NA
-PDLC02987	RM_Type_IIG_pglZ3		RM_Type_IIG_pglZ		Camargo AP			0.00001	0.3	0.3	RM			NA
-PDLC02988	RM_Type_III_REases		RM_Type_III_REases		Camargo AP			0.00001	0.3	0.3	RM			NA
-PDLC02989	RM_Type_III_MTases		RM_Type_III_MTases		Camargo AP			0.00001	0.3	0.3	RM			NA
-PDLC02990	RM_Type_IV_REases		RM_Type_IV_REases		Camargo AP			0.0000001	0.6	0.6	RM			NA
-PDLC02991	DUF4435		DUF4435		Camargo AP			0.00001	0.3	0.3	PARIS			NA
-PDLC02992	AAA_15		AAA_15		Camargo AP			0.00001	0.3	0.3	PARIS			NA
-PDLC02993	AAA_21		AAA_21		Camargo AP			0.00001	0.3	0.3	PARIS			NA
-PDLC02994	AAA_15_DUF4435		AAA_15_DUF4435		Camargo AP			1.00E-15	0.6	0.6	PARIS			NA
-PDLC02995	AAA_21_DUF4435		AAA_21_DUF4435		Camargo AP			1.00E-15	0.6	0.6	PARIS			NA
-PDLC02996	Rst_beta		Rst_beta		Camargo AP			0.00001	0.3	0.3	Rst_gop_beta_cll			NA
-PDLC02997	Rst_cll		Rst_cll		Camargo AP			0.00001	0.3	0.3	Rst_gop_beta_cll			NA
-PDLC02998	Rst_gop		Rst_gop		Camargo AP			0.00001	0.3	0.3	Rst_gop_beta_cll			NA
-PDLC02999	Rst_Old		Rst_Old		Camargo AP			0.00001	0.3	0.3	Rst_Old_Tin			NA
-PDLC03000	Rst_Tin		Rst_Tin		Camargo AP			0.00001	0.3	0.3	Rst_Old_Tin			NA
-PDLC03001	Rst_2TM_TIR		Rst_2TM_TIR		Camargo AP			0.00001	0.3	0.3	Rst_2TM_1TM_TIR			NA
-PDLC03002	Rst_TIR_tm		Rst_TIR_tm		Camargo AP			0.00001	0.3	0.3	Rst_2TM_1TM_TIR			NA
-PDLC03003	Rst_1TM_TIR		Rst_1TM_TIR		Camargo AP			0.00001	0.3	0.3	Rst_2TM_1TM_TIR			NA
-PDLC03004	Rst_TIR		Rst_TIR		Camargo AP			0.0000001	0.6	0.6	Rst_TIR-NLR			NA
-PDLC03005	Rst_Hydrolase		Rst_Hydrolase		Camargo AP			0.00001	0.3	0.3	Rst_Hydrolase-Tm			NA
-PDLC03006	Rst_Hydrolase-Tm		Rst_Hydrolase-Tm		Camargo AP			0.00001	0.3	0.3	Rst_Hydrolase-Tm			NA
-PDLC03007	Rst_RT		Rst_RT		Camargo AP			0.00001	0.3	0.3	Rst_RT-Tm			NA
-PDLC03008	Rst_RT-Tm		Rst_RT-Tm		Camargo AP			0.00001	0.3	0.3	Rst_RT-Tm			NA
-PDLC03009	Rst_Helicase		Rst_Helicase		Camargo AP			0.00001	0.3	0.3	Rst_Helicase_DUF2290			NA
-PDLC03010	Rst_DUF2290		Rst_DUF2290		Camargo AP			0.00001	0.3	0.3	Rst_Helicase_DUF2290			NA
-PDLC03011	Rst_DUF2290_Pers		Rst_DUF2290		Camargo AP			0.00001	0.3	0.3	Rst_Helicase_DUF2290			NA
-PDLC03012	Rst_DUF4238_Pers		Rst_DUF4238_Pers		Camargo AP			0.0000001	0.6	0.6	Rst_DUF4238			NA
-PDLC03013	Rst_DprA		Rst_DprA		Camargo AP			0.00001	0.3	0.3	Rst_DprA-PPRT			NA
-PDLC03014	Rst_Phosphoribosyltransferase		Rst_Phosphoribosyltransferase		Camargo AP			0.00001	0.3	0.3	Rst_DprA-PPRT			NA
-PDLC03015	Rst_Hp1		Rst_Hp1		Camargo AP			0.00001	0.3	0.3	Rst_3HP			NA
-PDLC03016	Rst_Hp2		Rst_Hp2		Camargo AP			0.00001	0.3	0.3	Rst_3HP			NA
-PDLC03017	Rst_Hp3		Rst_Hp3		Camargo AP			0.00001	0.3	0.3	Rst_3HP			NA
-PDLC03018	NixI		NixI		Camargo AP			0.0000001	0.6	0.6	NixI			NA
-PDLC03019	dCTPdeaminase		dCTPdeaminase		Camargo AP			0.0000001	0.6	0.6	dCTPdeaminase			NA
-PDLC03020	Sp_dGTPase		Sp_dGTPase		Camargo AP			0.0000001	0.6	0.6	dGTPase			NA
-PDLC03021	DarT		DarT		Camargo AP			0.00001	0.3	0.3	DarTG			NA
-PDLC03022	DarG		DarG		Camargo AP			0.00001	0.3	0.3	DarTG			NA
-PDLC03023	bGSDM		bGSDM		Camargo AP			0.0000001	0.6	0.6	GasderMIN			NA
-PDLC03024	spbK		spbK		Camargo AP			0.0000001	0.6	0.6	spbK	10.1371/journal.pgen.1010065		NA
-PDLC03025	NixI_alt		NixI		Camargo AP			0.0000001	0.6	0.6	NixI	10.1093/nar/gkac002		NA
-PDLC03026	SiAgo_Ago		pAgo		Camargo AP			1.00E-08	0.5	0.5	Argonaute	10.1101/2021.12.09.471704 		NA
-PDLC03027	SiAgo_Aga1		Aga1		Camargo AP			1.00E-08	0.5	0.5	Argonaute	10.1101/2021.12.09.471704 		NA
-PDLC03028	SiAgo_Aga2		Aga2		Camargo AP			1.00E-08	0.5	0.5	Argonaute	10.1101/2021.12.09.471704 		NA
-PDLC03029	PDE3_ORF807		PDE3_ORF807		Camargo AP			1.00E-15	0.6	0.6	PDE3_ORF807	10.1126/science.abb1083		NA
-PDLC03030	Nhi_alt		Nhi		Camargo AP			0.00000001	0.7	0.7	Nhi	10.1016/j.chom.2022.03.001		NA
-PDLC03031	SPARTA_pAgo		pAgo		Camargo AP			1.00E-08	0.5	0.5	SPARTA	10.1016/j.cell.2022.03.012		NA
-PDLC03032	SPARTA_TIR_APAZ		TIR_APAZ		Camargo AP			1.00E-08	0.5	0.5	SPARTA	10.1016/j.cell.2022.03.012		NA
-PDLC03033	DdmA		DdmA		Camargo AP			1.00E-08	0.5	0.5	DmdABC	10.1038/s41586-022-04546-y		NA
-PDLC03034	DdmB		DdmB		Camargo AP			1.00E-08	0.5	0.5	DmdABC	10.1038/s41586-022-04546-y		NA
-PDLC03035	DdmC		DdmC		Camargo AP			1.00E-08	0.5	0.5	DmdABC	10.1038/s41586-022-04546-y		NA
-PDLC03036	DdmD		DdmD		Camargo AP			1.00E-08	0.5	0.5	DmdDE	10.1038/s41586-022-04546-y		NA
-PDLC03037	DdmE		DdmE		Camargo AP			1.00E-08	0.5	0.5	DmdDE	10.1038/s41586-022-04546-y		NA
+PDLC99999	RM_Type_I_S		RM_Type_I_S		Camargo AP			0.00001	0.3	0.3	RM			NA
+PDLC99998	RM_Type_I_REases		RM_Type_I_REases		Camargo AP			0.00001	0.3	0.3	RM			NA
+PDLC99997	RM_Type_I_MTases		RM_Type_I_MTases		Camargo AP			0.00001	0.3	0.3	RM			NA
+PDLC99996	RM_Type_II_REases		RM_Type_II_REases		Camargo AP			0.00001	0.3	0.3	RM			NA
+PDLC99995	RM_Type_II_MTases		RM_Type_II_MTases		Camargo AP			0.00001	0.3	0.3	RM			NA
+PDLC99994	RM_Type_IIG_effector		RM_Type_IIG_effector		Camargo AP			0.0000001	0.6	0.6	RM			NA
+PDLC99993	RM_Type_IIG_drmB		RM_Type_IIG_drmB		Camargo AP			0.00001	0.3	0.3	RM			NA
+PDLC99992	RM_Type_IIG_pglZA		RM_Type_IIG_pglZ		Camargo AP			0.00001	0.3	0.3	RM			NA
+PDLC99991	RM_Type_IIG_pglZB		RM_Type_IIG_pglZ		Camargo AP			0.00001	0.3	0.3	RM			NA
+PDLC99990	RM_Type_IIG_pglZ2		RM_Type_IIG_pglZ		Camargo AP			0.00001	0.3	0.3	RM			NA
+PDLC99989	RM_Type_IIG_pglZ3		RM_Type_IIG_pglZ		Camargo AP			0.00001	0.3	0.3	RM			NA
+PDLC99988	RM_Type_III_REases		RM_Type_III_REases		Camargo AP			0.00001	0.3	0.3	RM			NA
+PDLC99987	RM_Type_III_MTases		RM_Type_III_MTases		Camargo AP			0.00001	0.3	0.3	RM			NA
+PDLC99986	RM_Type_IV_REases		RM_Type_IV_REases		Camargo AP			0.0000001	0.6	0.6	RM			NA
+PDLC99985	DUF4435		DUF4435		Camargo AP			0.00001	0.3	0.3	PARIS			NA
+PDLC99984	AAA_15		AAA_15		Camargo AP			0.00001	0.3	0.3	PARIS			NA
+PDLC99983	AAA_21		AAA_21		Camargo AP			0.00001	0.3	0.3	PARIS			NA
+PDLC99982	AAA_15_DUF4435		AAA_15_DUF4435		Camargo AP			1.00E-15	0.6	0.6	PARIS			NA
+PDLC99981	AAA_21_DUF4435		AAA_21_DUF4435		Camargo AP			1.00E-15	0.6	0.6	PARIS			NA
+PDLC99980	Rst_beta		Rst_beta		Camargo AP			0.00001	0.3	0.3	Rst_gop_beta_cll			NA
+PDLC99979	Rst_cll		Rst_cll		Camargo AP			0.00001	0.3	0.3	Rst_gop_beta_cll			NA
+PDLC99978	Rst_gop		Rst_gop		Camargo AP			0.00001	0.3	0.3	Rst_gop_beta_cll			NA
+PDLC99977	Rst_Old		Rst_Old		Camargo AP			0.00001	0.3	0.3	Rst_Old_Tin			NA
+PDLC99976	Rst_Tin		Rst_Tin		Camargo AP			0.00001	0.3	0.3	Rst_Old_Tin			NA
+PDLC99975	Rst_2TM_TIR		Rst_2TM_TIR		Camargo AP			0.00001	0.3	0.3	Rst_2TM_1TM_TIR			NA
+PDLC99974	Rst_TIR_tm		Rst_TIR_tm		Camargo AP			0.00001	0.3	0.3	Rst_2TM_1TM_TIR			NA
+PDLC99973	Rst_1TM_TIR		Rst_1TM_TIR		Camargo AP			0.00001	0.3	0.3	Rst_2TM_1TM_TIR			NA
+PDLC99972	Rst_TIR		Rst_TIR		Camargo AP			0.0000001	0.6	0.6	Rst_TIR-NLR			NA
+PDLC99971	Rst_Hydrolase		Rst_Hydrolase		Camargo AP			0.00001	0.3	0.3	Rst_Hydrolase-Tm			NA
+PDLC99970	Rst_Hydrolase-Tm		Rst_Hydrolase-Tm		Camargo AP			0.00001	0.3	0.3	Rst_Hydrolase-Tm			NA
+PDLC99969	Rst_RT		Rst_RT		Camargo AP			0.00001	0.3	0.3	Rst_RT-Tm			NA
+PDLC99968	Rst_RT-Tm		Rst_RT-Tm		Camargo AP			0.00001	0.3	0.3	Rst_RT-Tm			NA
+PDLC99967	Rst_Helicase		Rst_Helicase		Camargo AP			0.00001	0.3	0.3	Rst_Helicase_DUF2290			NA
+PDLC99966	Rst_DUF2290		Rst_DUF2290		Camargo AP			0.00001	0.3	0.3	Rst_Helicase_DUF2290			NA
+PDLC99965	Rst_DUF2290_Pers		Rst_DUF2290		Camargo AP			0.00001	0.3	0.3	Rst_Helicase_DUF2290			NA
+PDLC99964	Rst_DUF4238_Pers		Rst_DUF4238_Pers		Camargo AP			0.0000001	0.6	0.6	Rst_DUF4238			NA
+PDLC99963	Rst_DprA		Rst_DprA		Camargo AP			0.00001	0.3	0.3	Rst_DprA-PPRT			NA
+PDLC99962	Rst_Phosphoribosyltransferase		Rst_Phosphoribosyltransferase		Camargo AP			0.00001	0.3	0.3	Rst_DprA-PPRT			NA
+PDLC99961	Rst_Hp1		Rst_Hp1		Camargo AP			0.00001	0.3	0.3	Rst_3HP			NA
+PDLC99960	Rst_Hp2		Rst_Hp2		Camargo AP			0.00001	0.3	0.3	Rst_3HP			NA
+PDLC99959	Rst_Hp3		Rst_Hp3		Camargo AP			0.00001	0.3	0.3	Rst_3HP			NA
+PDLC99958	NixI		NixI		Camargo AP			0.0000001	0.6	0.6	NixI			NA
+PDLC99957	dCTPdeaminase		dCTPdeaminase		Camargo AP			0.0000001	0.6	0.6	dCTPdeaminase			NA
+PDLC99956	Sp_dGTPase		Sp_dGTPase		Camargo AP			0.0000001	0.6	0.6	dGTPase			NA
+PDLC99955	DarT		DarT		Camargo AP			0.00001	0.3	0.3	DarTG			NA
+PDLC99954	DarG		DarG		Camargo AP			0.00001	0.3	0.3	DarTG			NA
+PDLC99953	bGSDM		bGSDM		Camargo AP			0.0000001	0.6	0.6	GasderMIN			NA
+PDLC99952	spbK		spbK		Camargo AP			0.0000001	0.6	0.6	spbK	10.1371/journal.pgen.1010065		NA
+PDLC99951	NixI_alt		NixI		Camargo AP			0.0000001	0.6	0.6	NixI	10.1093/nar/gkac002		NA
+PDLC99950	SiAgo_Ago		pAgo		Camargo AP			1.00E-08	0.5	0.5	Argonaute	10.1101/2021.12.09.471704 		NA
+PDLC99949	SiAgo_Aga1		Aga1		Camargo AP			1.00E-08	0.5	0.5	Argonaute	10.1101/2021.12.09.471704 		NA
+PDLC99948	SiAgo_Aga2		Aga2		Camargo AP			1.00E-08	0.5	0.5	Argonaute	10.1101/2021.12.09.471704 		NA
+PDLC99947	PDE3_ORF807		PDE3_ORF807		Camargo AP			1.00E-15	0.6	0.6	PDE3_ORF807	10.1126/science.abb1083		NA
+PDLC99946	Nhi_alt		Nhi		Camargo AP			0.00000001	0.7	0.7	Nhi	10.1016/j.chom.2022.03.001		NA
+PDLC99945	SPARTA_pAgo		pAgo		Camargo AP			1.00E-08	0.5	0.5	SPARTA	10.1016/j.cell.2022.03.012		NA
+PDLC99944	SPARTA_TIR_APAZ		TIR_APAZ		Camargo AP			1.00E-08	0.5	0.5	SPARTA	10.1016/j.cell.2022.03.012		NA
+PDLC99943	DdmA		DdmA		Camargo AP			1.00E-08	0.5	0.5	DmdABC	10.1038/s41586-022-04546-y		NA
+PDLC99942	DdmB		DdmB		Camargo AP			1.00E-08	0.5	0.5	DmdABC	10.1038/s41586-022-04546-y		NA
+PDLC99941	DdmC		DdmC		Camargo AP			1.00E-08	0.5	0.5	DmdABC	10.1038/s41586-022-04546-y		NA
+PDLC99940	DdmD		DdmD		Camargo AP			1.00E-08	0.5	0.5	DmdDE	10.1038/s41586-022-04546-y		NA
+PDLC99939	DdmE		DdmE		Camargo AP			1.00E-08	0.5	0.5	DmdDE	10.1038/s41586-022-04546-y		NA
 

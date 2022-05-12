@@ -7,7 +7,9 @@ minimum_total: 1
 # genes
 core_genes:
   - dGTPase
-  - dCTPase  
+  - dCTPase
+  - dCTPdeaminase
+  - Sp_dGTPase
 optional_genes:
   - NA
 prohibited_genes:
