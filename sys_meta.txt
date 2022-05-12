@@ -20,7 +20,7 @@ lamassu type I	NA	lamassu_type_I	T	NA
 lamassu type II	NA	lamassu_type_II	T	NA
 septu other	NA	septu_other	T	NA
 septu type I	NA	septu_type_I	T	NA
-septu type II	NA	septu_type_II	T	NA
+septu type II retron	NA	septu_type_II_retron	T	NA
 shedu	NA	shedu	T	NA
 thoeris other	NA	thoeris_other	T	NA
 thoeris type I	NA	thoeris_type_I	T	NA
