@@ -2974,6 +2974,632 @@ PDLC02973	retron_type_XIII_wgr-heat_cluster216_1		WGR_XIII		Jackson SA			0.00001
 PDLC02974	retron_type_III_A1_wh_cluster742_1		WH_III-A		Jackson SA			0.00001	0.5	0.3	Retron	10/fzk3		NA
 PDLC02975	retron_type_III_A2_wh_cluster1121_1		WH_III-A		Jackson SA			0.00001	0.5	0.3	Retron	10/fzk3		NA
 PDLC02976	retron_type_III_A5_wh_cluster1689_1		WH_III-A		Jackson SA			0.00001	0.5	0.3	Retron	10/fzk3		NA
+PDLC02987	caspase		caspase					0.00000001	0.5	0.5				
+PDLC02988	chat		chat					0.00000001	0.5	0.5				
+PDLC03010	nacht		nacht					0.00000001	0.5	0.5				
+PDLC03011	peptidase_U41		peptidase_U41					0.00000001	0.5	0.5				
+PDLC03014	subtilase		subtilase					0.00000001	0.5	0.5				
+PDLC03017	trypsin-like		trypsin-like					0.00000001	0.5	0.5				
+PDLC03018	MTase_I_00001	Type I methyltransferase	RM_Type_I_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03019	MTase_I_00002	Type I methyltransferase	RM_Type_I_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03020	MTase_I_00003	Type I methyltransferase	RM_Type_I_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03021	MTase_I_00004	Type I methyltransferase	RM_Type_I_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03022	MTase_I_00005	Type I methyltransferase	RM_Type_I_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03023	MTase_I_00006	Type I methyltransferase	RM_Type_I_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03024	MTase_I_00007	Type I methyltransferase	RM_Type_I_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03025	MTase_I_00008	Type I methyltransferase	RM_Type_I_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03026	MTase_I_00009	Type I methyltransferase	RM_Type_I_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03027	MTase_I_00010	Type I methyltransferase	RM_Type_I_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03028	MTase_I_00011	Type I methyltransferase	RM_Type_I_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03029	MTase_I_00012	Type I methyltransferase	RM_Type_I_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03030	MTase_I_00013	Type I methyltransferase	RM_Type_I_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03031	MTase_I_00014	Type I methyltransferase	RM_Type_I_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03032	MTase_I_00015	Type I methyltransferase	RM_Type_I_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03033	MTase_I_00016	Type I methyltransferase	RM_Type_I_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03034	MTase_I_00017	Type I methyltransferase	RM_Type_I_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03035	MTase_I_00018	Type I methyltransferase	RM_Type_I_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03036	MTase_I_00019	Type I methyltransferase	RM_Type_I_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03037	MTase_I_00020	Type I methyltransferase	RM_Type_I_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03038	MTase_I_00021	Type I methyltransferase	RM_Type_I_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03039	MTase_I_00022	Type I methyltransferase	RM_Type_I_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03040	REase_I_00001	Type I restriction enzyme	RM_Type_I_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03041	REase_I_00002	Type I restriction enzyme	RM_Type_I_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03042	REase_I_00003	Type I restriction enzyme	RM_Type_I_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03043	REase_I_00004	Type I restriction enzyme	RM_Type_I_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03044	REase_I_00005	Type I restriction enzyme	RM_Type_I_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03045	REase_I_00006	Type I restriction enzyme	RM_Type_I_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03046	REase_I_00007	Type I restriction enzyme	RM_Type_I_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03047	REase_I_00008	Type I restriction enzyme	RM_Type_I_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03048	REase_I_00009	Type I restriction enzyme	RM_Type_I_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03049	REase_I_00010	Type I restriction enzyme	RM_Type_I_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03050	REase_I_00011	Type I restriction enzyme	RM_Type_I_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03051	REase_MTase_I_00001	Type I restriction enzyme-methyltransferase	RM_Type_I_REase_MTase		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03052	Specificity_I_00001	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03053	Specificity_I_00002	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03054	Specificity_I_00003	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03055	Specificity_I_00004	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03056	Specificity_I_00005	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03057	Specificity_I_00006	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03058	Specificity_I_00007	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03059	Specificity_I_00008	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03060	Specificity_I_00009	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03061	Specificity_I_00010	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03062	Specificity_I_00011	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03063	Specificity_I_00012	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03064	Specificity_I_00013	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03065	Specificity_I_00014	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03066	Specificity_I_00015	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03067	Specificity_I_00016	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03068	Specificity_I_00017	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03069	Specificity_I_00018	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03070	Specificity_I_00019	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03071	Specificity_I_00020	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03072	Specificity_I_00021	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03073	Specificity_I_00022	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03074	Specificity_I_00023	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03075	Specificity_I_00024	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03076	Specificity_I_00025	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03077	Specificity_I_00026	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03078	Specificity_I_00027	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03079	Specificity_I_00028	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03080	Specificity_I_00029	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03081	Specificity_I_00030	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03082	Specificity_I_00031	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03083	Specificity_I_00032	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03084	Specificity_I_00033	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03085	Specificity_I_00034	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03086	Specificity_I_00035	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03087	Specificity_I_00036	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03088	Specificity_I_00037	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03089	Specificity_I_00038	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03090	Specificity_I_00039	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03091	Specificity_I_00040	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03092	Specificity_I_00041	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03093	Specificity_I_00042	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03094	Specificity_I_00043	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03095	Specificity_I_00044	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03096	Specificity_I_00045	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03097	Specificity_I_00046	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03098	Specificity_I_00047	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03099	Specificity_I_00048	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03100	Specificity_I_00049	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03101	Specificity_I_00050	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03102	Specificity_I_00051	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03103	Specificity_I_00052	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03104	Specificity_I_00053	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03105	Specificity_I_00054	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03106	Specificity_I_00055	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03107	Specificity_I_00056	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03108	Specificity_I_00057	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03109	Specificity_I_00058	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03110	Specificity_I_00059	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03111	Specificity_I_00060	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03112	Specificity_I_00061	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03113	Specificity_I_00062	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03114	Specificity_I_00063	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03115	Specificity_I_00064	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03116	Specificity_I_00065	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03117	Specificity_I_00066	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03118	Specificity_I_00067	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03119	Specificity_I_00068	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03120	Specificity_I_00069	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03121	Specificity_I_00070	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03122	Specificity_I_00071	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03123	Specificity_I_00072	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03124	Specificity_I_00073	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03125	Specificity_I_00074	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03126	Specificity_I_00075	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03127	Specificity_I_00076	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03128	Specificity_I_00077	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03129	Specificity_I_00078	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03130	Specificity_I_00079	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03131	Specificity_I_00080	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03132	Specificity_I_00081	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03133	Specificity_I_00082	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03134	Specificity_I_00083	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03135	Specificity_I_00084	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03136	Specificity_I_00085	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03137	Specificity_I_00086	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03138	Specificity_I_00087	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03139	Specificity_I_00088	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03140	Specificity_I_00089	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03141	Specificity_I_00090	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03142	Specificity_I_00091	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03143	Specificity_I_00092	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03144	Specificity_I_00093	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03145	Specificity_I_00094	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03146	Specificity_I_00095	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03147	Specificity_I_00096	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03148	Specificity_I_00097	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03149	Specificity_I_00098	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03150	Specificity_I_00099	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03151	Specificity_I_00100	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03152	Specificity_I_00101	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03153	Specificity_I_00102	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03154	Specificity_I_00103	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03155	Specificity_I_00104	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03156	Specificity_I_00105	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03157	Specificity_I_00106	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03158	Specificity_I_00107	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03159	Specificity_I_00108	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03160	Specificity_I_00109	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03161	Specificity_I_00110	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03162	Specificity_I_00111	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03163	Specificity_I_00112	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03164	Specificity_I_00113	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03165	Specificity_I_00114	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03166	Specificity_I_00115	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03167	Specificity_I_00116	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03168	Specificity_I_00117	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03169	Specificity_I_00118	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03170	Specificity_I_00119	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03171	Specificity_I_00120	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03172	Specificity_I_00121	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03173	Specificity_I_00122	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03174	Specificity_I_00123	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03175	Specificity_I_00124	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03176	Specificity_I_00125	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03177	Specificity_I_00126	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03178	Specificity_I_00127	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03179	Specificity_I_00128	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03180	Specificity_I_00129	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03181	Specificity_I_00130	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03182	Specificity_I_00131	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03183	Specificity_I_00132	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03184	Specificity_I_00133	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03185	Specificity_I_00134	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03186	Specificity_I_00135	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03187	Specificity_I_00136	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03188	Specificity_I_00137	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03189	Specificity_I_00138	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03190	Specificity_I_00139	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03191	Specificity_I_00140	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03192	Specificity_I_00141	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03193	Specificity_I_00142	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03194	Specificity_I_00143	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03195	Specificity_I_00144	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03196	Specificity_I_00145	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03197	Specificity_I_00146	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03198	Specificity_I_00147	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03199	Specificity_I_00148	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03200	Specificity_I_00149	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03201	Specificity_I_00150	Type I specificity subunit	RM_Type_I_S		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03215	MTase_II_00001	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03216	MTase_II_00002	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03217	MTase_II_00003	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03218	MTase_II_00004	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03219	MTase_II_00005	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03220	MTase_II_00006	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03221	MTase_II_00007	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03222	MTase_II_00008	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03223	MTase_II_00009	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03224	MTase_II_00010	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03225	MTase_II_00011	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03226	MTase_II_00012	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03227	MTase_II_00013	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03228	MTase_II_00014	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03229	MTase_II_00015	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03230	MTase_II_00016	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03231	MTase_II_00017	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03232	MTase_II_00018	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03233	MTase_II_00019	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03234	MTase_II_00020	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03235	MTase_II_00021	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03236	MTase_II_00022	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03237	MTase_II_00023	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03238	MTase_II_00024	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03239	MTase_II_00025	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03240	MTase_II_00026	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03241	MTase_II_00027	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03242	MTase_II_00028	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03243	MTase_II_00029	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03244	MTase_II_00030	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03245	MTase_II_00031	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03246	MTase_II_00032	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03247	MTase_II_00033	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03248	MTase_II_00034	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03249	MTase_II_00035	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03250	MTase_II_00036	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03251	MTase_II_00037	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03252	MTase_II_00038	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03253	MTase_II_00039	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03254	MTase_II_00040	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03255	MTase_II_00041	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03256	MTase_II_00042	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03257	MTase_II_00043	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03258	MTase_II_00044	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03259	MTase_II_00045	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03260	MTase_II_00046	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03261	MTase_II_00047	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03262	MTase_II_00048	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03263	MTase_II_00049	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03264	MTase_II_00050	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03265	MTase_II_00051	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03266	MTase_II_00052	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03267	MTase_II_00053	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03268	MTase_II_00054	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03269	MTase_II_00055	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03270	MTase_II_00056	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03271	MTase_II_00057	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03272	MTase_II_00058	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03273	MTase_II_00059	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03274	MTase_II_00060	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03275	MTase_II_00061	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03276	MTase_II_00062	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03277	MTase_II_00063	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03278	MTase_II_00064	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03279	MTase_II_00065	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03280	MTase_II_00066	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03281	MTase_II_00067	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03282	MTase_II_00068	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03283	MTase_II_00069	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03284	MTase_II_00070	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03285	MTase_II_00071	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03286	MTase_II_00072	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03287	MTase_II_00073	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03288	MTase_II_00074	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03289	MTase_II_00075	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03290	MTase_II_00076	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03291	MTase_II_00077	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03292	MTase_II_00078	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03293	MTase_II_00079	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03294	MTase_II_00080	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03295	MTase_II_00081	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03296	MTase_II_00082	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03297	MTase_II_00083	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03298	MTase_II_00084	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03299	MTase_II_00085	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03300	MTase_II_00086	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03301	MTase_II_00087	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03302	MTase_II_00088	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03303	MTase_II_00089	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03304	MTase_II_00090	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03305	MTase_II_00091	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03306	MTase_II_00092	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03307	MTase_II_00093	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03308	MTase_II_00094	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03309	MTase_II_00095	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03310	MTase_II_00096	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03311	MTase_II_00097	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03312	MTase_II_00098	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03313	MTase_II_00099	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03314	MTase_II_00100	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03315	MTase_II_00101	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03316	MTase_II_00102	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03317	MTase_II_00103	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03318	MTase_II_00104	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03319	MTase_II_00105	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03320	MTase_II_00106	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03321	MTase_II_00107	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03322	MTase_II_00108	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03323	MTase_II_00109	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03324	MTase_II_00110	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03325	MTase_II_00111	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03326	MTase_II_00112	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03327	MTase_II_00113	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03328	MTase_II_00114	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03329	MTase_II_00115	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03330	MTase_II_00116	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03331	MTase_II_00117	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03332	MTase_II_00118	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03333	MTase_II_00119	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03334	MTase_II_00120	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03335	MTase_II_00121	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03336	MTase_II_00122	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03337	MTase_II_00123	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03338	MTase_II_00124	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03339	MTase_II_00125	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03340	MTase_II_00126	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03341	MTase_II_00127	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03342	MTase_II_00128	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03343	MTase_II_00129	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03344	MTase_II_00130	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03345	MTase_II_00131	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03346	MTase_II_00132	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03347	MTase_II_00133	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03348	MTase_II_00134	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03349	MTase_II_00135	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03350	MTase_II_00136	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03351	MTase_II_00137	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03352	MTase_II_00138	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03353	MTase_II_00139	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03354	MTase_II_00140	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03355	MTase_II_00141	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03356	MTase_II_00142	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03357	MTase_II_00143	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03358	MTase_II_00144	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03359	MTase_II_00145	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03360	MTase_II_00146	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03361	MTase_II_00147	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03362	MTase_II_00148	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03363	MTase_II_00149	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03364	MTase_II_00150	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03365	MTase_II_00151	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03366	MTase_II_00152	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03367	MTase_II_00153	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03368	MTase_II_00154	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03369	MTase_II_00155	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03370	MTase_II_00156	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03371	MTase_II_00157	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03372	MTase_II_00158	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03373	MTase_II_00159	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03374	MTase_II_00160	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03375	MTase_II_00161	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03376	MTase_II_00162	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03377	MTase_II_00163	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03378	MTase_II_00164	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03379	MTase_II_00165	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03380	MTase_II_00166	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03381	MTase_II_00167	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03382	MTase_II_00168	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03383	MTase_II_00169	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03384	MTase_II_00170	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03385	MTase_II_00171	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03386	MTase_II_00172	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03387	MTase_II_00173	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03388	MTase_II_00174	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03389	MTase_II_00175	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03390	MTase_II_00176	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03391	MTase_II_00177	Type II methyltransferase	RM_Type_II_MTases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03399	REase_II_00001	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03400	REase_II_00002	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03401	REase_II_00003	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03402	REase_II_00004	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03403	REase_II_00005	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03404	REase_II_00006	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03405	REase_II_00007	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03406	REase_II_00008	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03407	REase_II_00009	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03408	REase_II_00010	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03409	REase_II_00011	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03410	REase_II_00012	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03411	REase_II_00013	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03412	REase_II_00014	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03413	REase_II_00015	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03414	REase_II_00016	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03415	REase_II_00017	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03416	REase_II_00018	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03417	REase_II_00019	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03418	REase_II_00020	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03419	REase_II_00021	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03420	REase_II_00022	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03421	REase_II_00023	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03422	REase_II_00024	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03423	REase_II_00025	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03424	REase_II_00026	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03425	REase_II_00027	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03426	REase_II_00028	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03427	REase_II_00029	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03428	REase_II_00030	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03429	REase_II_00031	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03430	REase_II_00032	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03431	REase_II_00033	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03432	REase_II_00034	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03433	REase_II_00035	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03434	REase_II_00036	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03435	REase_II_00037	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03436	REase_II_00038	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03437	REase_II_00039	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03438	REase_II_00040	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03439	REase_II_00041	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03440	REase_II_00042	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03441	REase_II_00043	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03442	REase_II_00044	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03443	REase_II_00045	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03444	REase_II_00046	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03445	REase_II_00047	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03446	REase_II_00048	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03447	REase_II_00049	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03448	REase_II_00050	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03449	REase_II_00051	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03450	REase_II_00052	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03451	REase_II_00053	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03452	REase_II_00054	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03453	REase_II_00055	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03454	REase_II_00056	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03455	REase_II_00057	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03456	REase_II_00058	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03457	REase_II_00059	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03458	REase_II_00060	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03459	REase_II_00061	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03460	REase_II_00062	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03461	REase_II_00063	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03462	REase_II_00064	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03463	REase_II_00065	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03464	REase_II_00066	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03465	REase_II_00067	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03466	REase_II_00068	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03467	REase_II_00069	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03468	REase_II_00070	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03469	REase_II_00071	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03470	REase_II_00072	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03471	REase_II_00073	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03472	REase_II_00074	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03473	REase_II_00075	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03474	REase_II_00076	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03475	REase_II_00077	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03476	REase_II_00078	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03477	REase_II_00079	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03478	REase_II_00080	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03479	REase_II_00081	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03480	REase_II_00082	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03481	REase_II_00083	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03482	REase_II_00084	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03483	REase_II_00085	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03484	REase_II_00086	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03485	REase_II_00087	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03486	REase_II_00088	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03487	REase_II_00089	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03488	REase_II_00090	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03489	REase_II_00091	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03490	REase_II_00092	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03491	REase_II_00093	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03492	REase_II_00094	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03493	REase_II_00095	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03494	REase_II_00096	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03495	REase_II_00097	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03496	REase_II_00098	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03497	REase_II_00099	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03498	REase_II_00100	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03499	REase_II_00101	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03500	REase_II_00102	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03501	REase_II_00103	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03502	REase_II_00104	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03503	REase_II_00105	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03504	REase_II_00106	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03505	REase_II_00107	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03506	REase_II_00108	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03507	REase_II_00109	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03508	REase_II_00110	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03509	REase_II_00111	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03510	REase_II_00112	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03511	REase_II_00113	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03512	REase_II_00114	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03513	REase_II_00115	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03514	REase_II_00116	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03515	REase_II_00117	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03516	REase_II_00118	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03517	REase_II_00119	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03518	REase_II_00120	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03519	REase_II_00121	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03520	REase_II_00122	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03521	REase_II_00123	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03522	REase_II_00124	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03523	REase_II_00125	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03524	REase_II_00126	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03525	REase_II_00127	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03526	REase_II_00128	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03527	REase_II_00129	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03528	REase_II_00130	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03529	REase_II_00131	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03530	REase_II_00132	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03531	REase_II_00133	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03532	REase_II_00134	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03533	REase_II_00135	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03534	REase_II_00136	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03535	REase_II_00137	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03536	REase_II_00138	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03537	REase_II_00139	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03538	REase_II_00140	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03539	REase_II_00141	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03540	REase_II_00142	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03541	REase_II_00143	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03542	REase_II_00144	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03543	REase_II_00145	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03544	REase_II_00146	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03545	REase_II_00147	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03546	REase_II_00148	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03547	REase_II_00149	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03548	REase_II_00150	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03549	REase_II_00151	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03550	REase_II_00152	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03551	REase_II_00153	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03552	REase_II_00154	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03553	REase_II_00155	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03554	REase_II_00156	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03555	REase_II_00157	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03556	REase_II_00158	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03557	REase_II_00159	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03558	REase_II_00160	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03559	REase_II_00161	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03560	REase_II_00162	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03561	REase_II_00163	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03562	REase_II_00164	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03563	REase_II_00165	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03564	REase_II_00166	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03565	REase_II_00167	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03566	REase_II_00168	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03567	REase_II_00169	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03568	REase_II_00170	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03569	REase_II_00171	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03570	REase_II_00172	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03571	REase_II_00173	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03572	REase_II_00174	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03573	REase_II_00175	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03574	REase_II_00176	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03575	REase_II_00177	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03576	REase_II_00178	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03577	REase_II_00179	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03578	REase_II_00180	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03579	REase_II_00181	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03580	REase_II_00182	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03581	REase_II_00183	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03582	REase_II_00184	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03583	REase_II_00185	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03584	REase_II_00186	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03585	REase_II_00187	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03586	REase_II_00188	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03587	REase_II_00189	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03588	REase_II_00190	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03589	REase_II_00191	Type II restriction enzyme	RM_Type_II_REases		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03596	REase_MTase_IIG_00001	Type IIG restriction enzyme-methyltransferase	RM_Type_IIG_effector		Payne LJ			1.00E-05	0.8	0.7	RM			NA
+PDLC03597	REase_MTase_IIG_00002	Type IIG restriction enzyme-methyltransferase	RM_Type_IIG_effector		Payne LJ			1.00E-05	0.8	0.7	RM			NA
+PDLC03598	REase_MTase_IIG_00003	Type IIG restriction enzyme-methyltransferase	RM_Type_IIG_effector		Payne LJ			1.00E-05	0.8	0.7	RM			NA
+PDLC03599	REase_MTase_IIG_00004	Type IIG restriction enzyme-methyltransferase	RM_Type_IIG_effector		Payne LJ			1.00E-05	0.8	0.7	RM			NA
+PDLC03600	REase_MTase_IIG_00005	Type IIG restriction enzyme-methyltransferase	RM_Type_IIG_effector		Payne LJ			1.00E-05	0.8	0.7	RM			NA
+PDLC03601	REase_MTase_IIG_00006	Type IIG restriction enzyme-methyltransferase	RM_Type_IIG_effector		Payne LJ			1.00E-05	0.8	0.7	RM			NA
+PDLC03602	REase_MTase_IIG_00007	Type IIG restriction enzyme-methyltransferase	RM_Type_IIG_effector		Payne LJ			1.00E-05	0.8	0.7	RM			NA
+PDLC03603	REase_MTase_IIG_00008	Type IIG restriction enzyme-methyltransferase	RM_Type_IIG_effector		Payne LJ			1.00E-05	0.8	0.7	RM			NA
+PDLC03604	REase_MTase_IIG_00009	Type IIG restriction enzyme-methyltransferase	RM_Type_IIG_effector		Payne LJ			1.00E-05	0.8	0.7	RM			NA
+PDLC03605	REase_MTase_IIG_00010	Type IIG restriction enzyme-methyltransferase	RM_Type_IIG_effector		Payne LJ			1.00E-05	0.8	0.7	RM			NA
+PDLC03606	REase_MTase_IIG_00011	Type IIG restriction enzyme-methyltransferase	RM_Type_IIG_effector		Payne LJ			1.00E-05	0.8	0.7	RM			NA
+PDLC03607	REase_MTase_IIG_00012	Type IIG restriction enzyme-methyltransferase	RM_Type_IIG_effector		Payne LJ			1.00E-05	0.8	0.7	RM			NA
+PDLC03608	REase_MTase_IIG_00013	Type IIG restriction enzyme-methyltransferase	RM_Type_IIG_effector		Payne LJ			1.00E-05	0.8	0.7	RM			NA
+PDLC03609	REase_MTase_IIG_00014	Type IIG restriction enzyme-methyltransferase	RM_Type_IIG_effector		Payne LJ			1.00E-05	0.8	0.7	RM			NA
+PDLC03610	REase_MTase_IIG_00015	Type IIG restriction enzyme-methyltransferase	RM_Type_IIG_effector		Payne LJ			1.00E-05	0.8	0.7	RM			NA
+PDLC03611	REase_MTase_IIG_00016	Type IIG restriction enzyme-methyltransferase	RM_Type_IIG_effector		Payne LJ			1.00E-05	0.8	0.7	RM			NA
+PDLC03612	REase_MTase_IIG_00017	Type IIG restriction enzyme-methyltransferase	RM_Type_IIG_effector		Payne LJ			1.00E-05	0.8	0.7	RM			NA
+PDLC03613	REase_MTase_IIG_00018	Type IIG restriction enzyme-methyltransferase	RM_Type_IIG_effector		Payne LJ			1.00E-05	0.8	0.7	RM			NA
+PDLC03614	REase_MTase_IIG_00019	Type IIG restriction enzyme-methyltransferase	RM_Type_IIG_effector		Payne LJ			1.00E-05	0.8	0.7	RM			NA
+PDLC03615	REase_MTase_IIG_00020	Type IIG restriction enzyme-methyltransferase	RM_Type_IIG_effector		Payne LJ			1.00E-05	0.8	0.7	RM			NA
+PDLC03616	REase_MTase_IIG_00021	Type IIG restriction enzyme-methyltransferase	RM_Type_IIG_effector		Payne LJ			1.00E-05	0.8	0.7	RM			NA
+PDLC03617	REase_MTase_IIG_00022	Type IIG restriction enzyme-methyltransferase	RM_Type_IIG_effector		Payne LJ			1.00E-05	0.8	0.7	RM			NA
+PDLC03618	REase_MTase_IIG_00023	Type IIG restriction enzyme-methyltransferase	RM_Type_IIG_effector		Payne LJ			1.00E-05	0.8	0.7	RM			NA
+PDLC03619	REase_MTase_IIG_00024	Type IIG restriction enzyme-methyltransferase	RM_Type_IIG_effector		Payne LJ			1.00E-05	0.8	0.7	RM			NA
+PDLC03620	REase_MTase_IIG_00025	Type IIG restriction enzyme-methyltransferase	RM_Type_IIG_effector		Payne LJ			1.00E-05	0.8	0.7	RM			NA
+PDLC03621	REase_MTase_IIG_00026	Type IIG restriction enzyme-methyltransferase	RM_Type_IIG_effector		Payne LJ			1.00E-05	0.8	0.7	RM			NA
+PDLC03622	REase_MTase_IIG_00027	Type IIG restriction enzyme-methyltransferase	RM_Type_IIG_effector		Payne LJ			1.00E-05	0.8	0.7	RM			NA
+PDLC03623	REase_MTase_IIG_00028	Type IIG restriction enzyme-methyltransferase	RM_Type_IIG_effector		Payne LJ			1.00E-05	0.8	0.7	RM			NA
+PDLC03624	REase_MTase_IIG_00029	Type IIG restriction enzyme-methyltransferase	RM_Type_IIG_effector		Payne LJ			1.00E-05	0.8	0.7	RM			NA
+PDLC03625	REase_MTase_IIG_00030	Type IIG restriction enzyme-methyltransferase	RM_Type_IIG_effector		Payne LJ			1.00E-05	0.8	0.7	RM			NA
+PDLC03626	REase_MTase_IIG_00031	Type IIG restriction enzyme-methyltransferase	RM_Type_IIG_effector		Payne LJ			1.00E-05	0.8	0.7	RM			NA
+PDLC03627	REase_MTase_IIG_00032	Type IIG restriction enzyme-methyltransferase	RM_Type_IIG_effector		Payne LJ			1.00E-05	0.8	0.7	RM			NA
+PDLC03628	REase_MTase_IIG_00033	Type IIG restriction enzyme-methyltransferase	RM_Type_IIG_effector		Payne LJ			1.00E-05	0.8	0.7	RM			NA
+PDLC03629	REase_MTase_IIG_00034	Type IIG restriction enzyme-methyltransferase	RM_Type_IIG_effector		Payne LJ			1.00E-05	0.8	0.7	RM			NA
+PDLC03630	REase_MTase_IIG_00035	Type IIG restriction enzyme-methyltransferase	RM_Type_IIG_effector		Payne LJ			1.00E-05	0.8	0.7	RM			NA
+PDLC03631	REase_MTase_IIG_00036	Type IIG restriction enzyme-methyltransferase	RM_Type_IIG_effector		Payne LJ			1.00E-05	0.8	0.7	RM			NA
+PDLC03632	MTase_III_00001	RM_Type_III_MTases	MTase_III		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03633	MTase_III_00002	RM_Type_III_MTases	MTase_III		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03634	MTase_III_00003	RM_Type_III_MTases	MTase_III		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03635	MTase_III_00004	RM_Type_III_MTases	MTase_III		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03636	MTase_III_00005	RM_Type_III_MTases	MTase_III		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03637	MTase_III_00006	RM_Type_III_MTases	MTase_III		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03638	MTase_III_00007	RM_Type_III_MTases	MTase_III		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03639	MTase_III_00008	RM_Type_III_MTases	MTase_III		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03640	MTase_III_00009	RM_Type_III_MTases	MTase_III		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03641	MTase_III_00010	RM_Type_III_MTases	MTase_III		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03642	MTase_III_00011	RM_Type_III_MTases	MTase_III		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03643	MTase_III_00012	RM_Type_III_MTases	MTase_III		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03644	MTase_III_00013	RM_Type_III_MTases	MTase_III		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03645	MTase_III_00014	RM_Type_III_MTases	MTase_III		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03646	MTase_III_00015	RM_Type_III_MTases	MTase_III		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03647	REase_III_00001	RM_Type_III_REases	REase_III		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03648	REase_III_00002	RM_Type_III_REases	REase_III		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03649	REase_III_00003	RM_Type_III_REases	REase_III		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03650	REase_III_00004	RM_Type_III_REases	REase_III		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03651	REase_III_00005	RM_Type_III_REases	REase_III		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03652	REase_III_00006	RM_Type_III_REases	REase_III		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03653	REase_III_00007	RM_Type_III_REases	REase_III		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03654	REase_III_00008	RM_Type_III_REases	REase_III		Payne LJ			1.00E-05	0.5	0.3	RM			NA
+PDLC03655	mREase_IV_00001	Type IV methyl-directed restriction enzyme	RM_Type_IV_REases		Payne LJ			1.00E-05	0.8	0.6	RM			NA
+PDLC03656	mREase_IV_00002	Type IV methyl-directed restriction enzyme	RM_Type_IV_REases		Payne LJ			1.00E-05	0.8	0.6	RM			NA
+PDLC03657	mREase_IV_00003	Type IV methyl-directed restriction enzyme	RM_Type_IV_REases		Payne LJ			1.00E-05	0.8	0.6	RM			NA
+PDLC03658	mREase_IV_00004	Type IV methyl-directed restriction enzyme	RM_Type_IV_REases		Payne LJ			1.00E-05	0.8	0.6	RM			NA
+PDLC03659	mREase_IV_00005	Type IV methyl-directed restriction enzyme	RM_Type_IV_REases		Payne LJ			1.00E-05	0.8	0.6	RM			NA
+PDLC03660	mREase_IV_00006	Type IV methyl-directed restriction enzyme	RM_Type_IV_REases		Payne LJ			1.00E-05	0.8	0.6	RM			NA
+PDLC03661	mREase_IV_00007	Type IV methyl-directed restriction enzyme	RM_Type_IV_REases		Payne LJ			1.00E-05	0.8	0.6	RM			NA
+PDLC03662	mREase_IV_00008	Type IV methyl-directed restriction enzyme	RM_Type_IV_REases		Payne LJ			1.00E-05	0.8	0.6	RM			NA
+PDLC03663	mREase_IV_00009	Type IV methyl-directed restriction enzyme	RM_Type_IV_REases		Payne LJ			1.00E-05	0.8	0.6	RM			NA
 PDLC99999	RM_Type_I_S		RM_Type_I_S		Camargo AP			0.00001	0.3	0.3	RM			NA
 PDLC99998	RM_Type_I_REases		RM_Type_I_REases		Camargo AP			0.00001	0.3	0.3	RM			NA
 PDLC99997	RM_Type_I_MTases		RM_Type_I_MTases		Camargo AP			0.00001	0.3	0.3	RM			NA

@@ -1,5 +1,5 @@
 ---
-maximum_separation: 5
+maximum_separation: 0
 minimum_core: 1
 minimum_total: 1
 
@@ -8,6 +8,14 @@ core_genes:
 optional_genes:
   - NA
 prohibited_genes:
+  - RM_Type_I_S
   - RM_Type_IIG_drmB
   - RM_Type_IIG_pglZ
+  - PglW
+  - DrmA
+  - DrmB
+  - DrmC
+  - BrxA
+  - BrxB
+  - BrxC
 ...

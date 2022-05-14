@@ -6,7 +6,12 @@ minimum_total: 1
 core_genes:
   - bGSDM
 optional_genes:
-  - NA
+  - caspase
+  - chat
+  - nacht
+  - peptidase_U41
+  - subtilase
+  - trypsin-like
 prohibited_genes:
   - NA
 ...
